@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SuitmediaTest</string>
+    <string name="second">Second Screen</string>
+    <string name="third">Third Screen</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SuitmediaTest" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="actionBarTheme">@style/Widget.AppCompat.Light.ActionBar</item>
+        <item name="actionBarStyle">@style/Theme.MaterialComponents.Light.DarkActionBar</item>
+        <item name="windowActionBarOverlay">true</item>
+         <item name="colorPrimary">@color/primaryBlue</item>
+    </style>
+
+    <style name="Theme.SuitmediaTest" parent="Base.Theme.SuitmediaTest" />
+</resources>
